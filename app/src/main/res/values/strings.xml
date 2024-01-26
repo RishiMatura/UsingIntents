@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="str2">Hello Everynyan</string>
+    <string name="button1">Next Page</string>
+    <string name="textview1">"Click  the button below to enter next page "</string>
+    <string name="button2">Previous Page</string>
+    <string name="textview2">Click The Button below to go to previous page</string>
+</resources>
